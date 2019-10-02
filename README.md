@@ -45,8 +45,48 @@ Aplicativo para marcar pontos no jogo de cartas truco.
 
 <p align="center">
   <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp1.jpg" height="500"/>
-  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp2.jpg" height="500"/>
   <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp3.jpg" height="500"/>
   <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp4.jpg" height="500"/>
+</p>
+
+## App 4 - Empréstimo de Objetos
+
+- **Layout:** LinearLayout
+- **Views:** TextView, Button, [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview), [CardView](https://developer.android.com/guide/topics/ui/layout/cardview)
+- **Classes:** Adapter, ViewHolder
+- **Banco de Dados:** [Comandos SQLite](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf)
+
+<p align="center">
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/memorizer-appemprestimo1.jpg" height="500"/>  
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/memorizer-appemprestimo2.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/memorizer-appemprestimo3.jpg" height="500"/>
+</p>
+
+## App 5 - Calculadora de Juros
+
+- **Layout:** LinearLayout
+- **Views:** TextView, ImageView, ScrollView
+
+<p align="center">
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_1.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_2.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_3.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_4.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_6.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_7.jpg" height="500"/>
+</p>
+
+## App 6 - Jogo da Velha (Tic Tac Toe)
+
+- **Layout:** LinearLayout
+- **Views:** TextView, ImageView, ScrollView
+
+<p align="center">
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/tic_tac_toe_1.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/tic_tac_toe_2.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/tic_tac_toe_3.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/tic_tac_toe_4.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/tic_tac_toe_5.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/tic_tac_toe_6.jpg" height="500"/>
 </p>
 
