@@ -69,7 +69,7 @@ Aplicativo para marcar pontos no jogo de cartas truco.
 
 <p align="center">
   <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_1.jpg" height="500"/>
-  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_3.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_2.jpg" height="500"/>
   <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/calculadora_juros_6.jpg" height="500"/>
 </p>
 
