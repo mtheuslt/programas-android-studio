@@ -1,7 +1,7 @@
 # Programas Android Studio
 Programas feitos no Android Studio durante a aula de programação para aplicativos moveis em 2018 e refeitos em 2019 para auto-aprendizado. Todos os programas foram inicialmente feitos na faculdade UNISAL - Centro Universitário Salesiano de São Paulo no quarto semestre.
 
-## Ferramentas utilizadas durante as aulas
+## Ferramentas que foram utilizadas
 
 - [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Android Studio](https://developer.android.com/studio/?hl=pt-br)
