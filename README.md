@@ -6,6 +6,7 @@ Programas feitos no Android Studio durante a aula de programação para aplicati
 - [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Android Studio](https://developer.android.com/studio/?hl=pt-br)
 - [Tiny PNG - Compressão de Imagens](https://tinypng.com/)
+- [Conversão de JPG para PNG](https://jpg2png.com/pt/)
 - [Icones](https://material.io/tools/icons/?style=baseline)
 - [Paleta de Cores](https://flatuicolors.com/)
 - [Gradient](https://uigradients.com)
@@ -13,3 +14,14 @@ Programas feitos no Android Studio durante a aula de programação para aplicati
 - [Android Developer Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 - [Project Guideline](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 - [Android Statistics ](https://www.appbrain.com/stats)
+
+## Programa 1 - Tela Simples de uma Empresa
+Programa feito para inicializar a aprendizagem com o android studio, e aprender o básico da IDE (Ambiente Integral de Desenvolvimento).
+
+- **Layout:** [LinearLayout](https://developer.android.com/guide/topics/ui/layout/linear?hl=pt-br)
+- **Views:** [TextView](https://developer.android.com/reference/android/widget/TextView), [ImageView](https://developer.android.com/reference/android/widget/ImageView) e [ScrollView](https://developer.android.com/reference/android/widget/ScrollView)
+
+<p align="center">
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/app_unisal.jpg" height="400"/>
+</p>
+
