@@ -15,13 +15,38 @@ Programas feitos no Android Studio durante a aula de programação para aplicati
 - [Project Guideline](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 - [Android Statistics ](https://www.appbrain.com/stats)
 
-## Programa 1 - Tela Simples de uma Empresa
-Programa feito para inicializar a aprendizagem com o android studio, e aprender o básico da IDE (Ambiente Integral de Desenvolvimento).
+## App 1 - Tela Simples de uma Empresa
+Aplicativo feito para inicializar a aprendizagem com o android studio, e aprender o básico da IDE (Ambiente Integral de Desenvolvimento).
 
 - **Layout:** [LinearLayout](https://developer.android.com/guide/topics/ui/layout/linear?hl=pt-br)
 - **Views:** [TextView](https://developer.android.com/reference/android/widget/TextView), [ImageView](https://developer.android.com/reference/android/widget/ImageView) e [ScrollView](https://developer.android.com/reference/android/widget/ScrollView)
 
 <p align="center">
-  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/app_unisal.jpg" height="400"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/app_unisal.jpg" height="500"/>
+</p>
+
+## App 2 - Marcador de Jogo de Truco
+Aplicativo para marcar pontos no jogo de cartas truco. 
+
+- **Layout:** LinearLayout
+- **Views:** TextView, ImageView, [Button](https://developer.android.com/guide/topics/ui/controls/button), ScrollView
+- **Métodos:** [KeepScreenOn](https://developer.android.com/training/scheduling/wakelock#java) e [LockOrientation](https://blog.novoda.com/portrait-only-apps/)
+
+<p align="center">
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/app_marcador_truco1.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/app_marcador_truco2.jpg" height="500"/>
+</p>
+
+## App 3 - Caluladora de Combustível
+
+- **Layout:** LinearLayout
+- **Views:** TextView, ImageView, ScrollView, [EditText](https://developer.android.com/training/keyboard-input/style) e [Validação](http://www.technotalkative.com/android-show-error-in-edittext/)
+- **Class:** [Intent](https://developer.android.com/training/basics/firstapp/starting-activity?hl=pt-br), [NumberFormat](https://receitasdecodigo.com.br/java/numberformat-ou-decimalformat-formatar-numeros-reais-em-java) e  [Toast](https://developer.android.com/guide/topics/ui/notifiers/toasts)
+
+<p align="center">
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp1.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp2.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp3.jpg" height="500"/>
+  <img src="https://github.com/mtheuslt/programas-android-studio/blob/master/Imagens/fuelapp4.jpg" height="500"/>
 </p>
 
