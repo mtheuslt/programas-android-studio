@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UNISAL</string>
+    <string name="app_name2">UNISAL - Centro Universitário Salesiano de São Paulo</string>
+    <string name="fatec_address">Av. Almeida Garret, 267 – Jd. Nossa Senhora Auxiliadora – Campinas/SP</string>
+    <string name="fatec_phone">+55 (19)3744-3100</string>
+    <string name="fatec_web_page">https://unisal.br/</string>
+    <string name="fatec_mission_title">Missão</string>
+    <string name="fatec_mission_description">O UNISAL é uma comunidade acadêmica formada por Docentes, Estudantes e pessoal administrativo, que promove de modo rigoroso, crítico e propositivo o desenvolvimento da pessoa humana e do patrimônio cultural da sociedade, mediante a pesquisa, a docência, a formação superior e contínua e os diversos serviços oferecidos às comunidades locais.</string>
+</resources>

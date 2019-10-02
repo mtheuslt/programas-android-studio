@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBkgButton">#ecf0f1</color>
+    <color name="colorText">#ecf0f1</color>
+    <color name="colorWhite">#ecf0f1</color>
+    <color name="colorStartBkg">#485563</color>
+    <color name="colorEndBkg">#29323c</color>
+
+</resources>
